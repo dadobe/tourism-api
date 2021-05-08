@@ -19,18 +19,16 @@
             "type": "Running / Hiking",
             "duration": "7",
             "routeMap": "https://gironaprosport.com/wp-content/uploads/mapa-2.jpg",
-            "details": "These are moderately demanding routes, on average you cross / run 15 km per day with an average daily elevation gain of around 800 m.  You will discover the valleys of the rivers Ter and Nuria, some of the most beautiful places in the eastern Pyrenees.  Visit charming mountain villages, discover their medieval architecture such as monasteries and bridges, taste the local mountain gastronomy.",
+            "details": "These are moderately demanding routes, on average you cross / run 15 km per day with an average daily elevation gain of around 800 m. You will discover the valleys of the rivers Ter and Nuria, some of the most beautiful places in the eastern Pyrenees. Visit charming mountain villages, discover their medieval architecture such as monasteries and bridges, taste the local mountain gastronomy.",
             "journey": [
-                {
-                 "Day 1": "Camprodon - Molló (17 Km / elevation 825m +) The route leads through pastures, forests, valleys, next to abandoned and reformed farmsteads, in Molló you can see a Romanesque church from the 12th century",
-                 "Day 2": "Molló - Setcases (12 Km / 743m +) The route leads between two mountains - the Pyrenees on one side and Garotxa on the other",
-                 "Day 3": "Setcases Vallter 2.000 / Bastiments 2.881 From the ski station Vallter you can choose a longer route 15 Km 910m + / 1580m, or shorter 7 Km / 770m, or you can take a day off and visit the village of Setcases and its surroundings",
-                 "Day 4": "Setcases - Camprodon (12.5 Km / 430m +) A shorter but beautiful route, passing through the breathtaking village of La Roca, which looks like hanging on the cliff on which it is built",
-                 "Day 5": "Camprodon - Ribes de Freser (23 Km / 925m +) Gradual ascent through a wild valley to Collada Verda Pass, from there descending through rolling valleys and footpaths",
-                 "Day 6": "Ribes de Freser / Puigmal 2,913 m in the morning you climb the sanctuary of Núria.  Then you can go a longer and challenging route and climb Puigmal (2913m.nm), or go a shorter route 7 Km 260m + / 1010m and go down into the valley",
-                 "journeyPrice": "Price 756 EUR (805 EUR from June 20 to August 28) per person (min. 2 people)",
-                 "includes": "Price includes accommodation (7 nights), breakfast, maps and routes in GPX format, luggage transfer between hotels, more information about the route"
-                }
+                 "Day-1: Camprodon - Molló (17 Km / elevation 825m +) The route leads through pastures, forests, valleys, next to abandoned and reformed farmsteads, in Molló you can see a Romanesque church from the 12th century",
+                 "Day-2: Molló - Setcases (12 Km / 743m +) The route leads between two mountains - the Pyrenees on one side and Garotxa on the other",
+                 "Day-3: Setcases Vallter 2.000 / Bastiments 2.881 From the ski station Vallter you can choose a longer route 15 Km 910m + / 1580m, or shorter 7 Km / 770m, or you can take a day off and visit the village of Setcases and its surroundings",
+                 "Day-4: Setcases - Camprodon (12.5 Km / 430m +) A shorter but beautiful route, passing through the breathtaking village of La Roca, which looks like hanging on the cliff on which it is built",
+                 "Day-5: Camprodon - Ribes de Freser (23 Km / 925m +) Gradual ascent through a wild valley to Collada Verda Pass, from there descending through rolling valleys and footpaths",
+                 "Day-6: Ribes de Freser / Puigmal 2,913 m in the morning you climb the sanctuary of Núria.  Then you can go a longer and challenging route and climb Puigmal (2913m.nm), or go a shorter route 7 Km 260m + / 1010m and go down into the valley",
+                 "Price 756 EUR (805 EUR from June 20 to August 28) per person (min. 2 people)",
+                 "Price includes accommodation (7 nights), breakfast, maps and routes in GPX format, luggage transfer between hotels, more information about the route"
             ]
         }
 
