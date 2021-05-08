@@ -8,8 +8,9 @@
             "imageURL": "https://gironaprosport.com/wp-content/uploads/hlavna-11-360x360.jpg",
             "price": 765,
             "category": ["running, hiking"],
+            "difficulty": "Medium / Demanding",
             "guide": "No",
-            "coach": "NO",
+            "coach": "No",
             "stages": 6,
             "distance": 90,
             "unevenness": 5799,
@@ -28,9 +29,108 @@
                  "Day-5: Camprodon - Ribes de Freser (23 Km / 925m +) Gradual ascent through a wild valley to Collada Verda Pass, from there descending through rolling valleys and footpaths",
                  "Day-6: Ribes de Freser / Puigmal 2,913 m in the morning you climb the sanctuary of Núria.  Then you can go a longer and challenging route and climb Puigmal (2913m.nm), or go a shorter route 7 Km 260m + / 1010m and go down into the valley",
                  "Price 756 EUR (805 EUR from June 20 to August 28) per person (min. 2 people)",
-                 "Price includes accommodation (7 nights), breakfast, maps and routes in GPX format, luggage transfer between hotels, more information about the route"
+                 "Price includes accommodation (7 nights), breakfast, maps and routes in GPX format, luggage transfer between hotels and more detailed information about the route."
             ]
         }
+        ,
+        {
+            "id": 1,
+            "title": "Girona's Green Roads - Family trip",
+            "description": "Bike trip for children from 5 years which will take you from the pre-Pyrenees to the coast (off the road).",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/hlavna-1-1-360x360.jpg",
+            "price": 665,
+            "category": ["cycling, mountain biking, kids"],
+            "difficulty": "Easy",
+            "guide": "No",
+            "coach": "No",
+            "stages": 4,
+            "distance": 100,
+            "unevenness": 0,
+            "bycicleRental": "Not included in price",
+            "availability": "from 01/03 to 31/10",
+            "tags": ["#cycling", "#costabrava", "#kids", "#mountaibike"],
+            "type": "Cycling / Mountain bike / With kids",
+            "duration": "5",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/mapa.jpg",
+            "details": "Short and easy bike ride on green roads (unpaved bike paths), suitable for families with children from 5 years. The route runs from the pre-Pyrenees to the Costa Brava. Follow the route along the volcanoes, forests and wetlands. Enjoy the beautiful and quiet landscapes and on the last day you can swim on the beach.",
+            "journey": [
+                 "Day-1: Arrival and accommodation in Olot",
+                 "Day-2: Olot - Les Planes d'Hostoles (22 km). The route leads along the Bas valley, with beautiful nature and typical villages also called Catalan Switzerland.",
+                 "Day-3: Les Planes d'Hostoles - Girona (35 km). The road runs along the river Ter, one of the most important rivers in Catalonia.  You will end the day in beautiful Girona.",
+                 "Day-4: Girona - Campllong / Llagostera (18 km / 21 km). You will walk through the village of Quart, famous for its pottery, and Cassa de la Selva, with nice modernist houses in the center.",
+                 "Day-5: Day 5 - Campllong / Llagostera - Sant Feliu de Guíxols (30 km / 26 km). The last day is the longest route, but you end it at the beach in the picturesque town of Sant Feliu de Guíxols.",
+                 "Price 656 EUR (700 EUR from June 20 to August 28) per person (min. 2 people). Children up to 2 years free, from 3 to 7 50% discount, from 8 to 12 years 25% discount.",
+                 "The price includes accommodation (5 nights), half board, maps and routes in GPX format, luggage transfer between hotels, more information about the route. Possibility to rent bicycles apart from 50 EUR/person and bicycle transport."
+            ]
+        }
+        ,
+        {
+            "id": 2,
+            "title": "Costa Brava wine route GRAVEL / Cyclocross",
+            "description": "This is a trip with easy cycling for ordinary cyclists as half of the route is on quiet side roads and the other on unpaved terrain roads. It goes about 40 km a day without major climbs.",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/77400781_798749243904010_4080601200469213184_o1-360x360.jpg",
+            "price": 760,
+            "category": ["cycling, mountainbike, gravel"],
+            "difficulty": "Easy",
+            "guide": "No",
+            "coach": "No",
+            "stages": 6,
+            "distance": 220,
+            "unevenness": 1230,
+            "bycicleRental": "Not included in price",
+            "availability": "from 01/03 to 31/10",
+            "tags": ["#costabrava", "#gravel", "#cycling", "#mountainbike"],
+            "type": "Cycling / Mountainbike / Gravel",
+            "duration": "6",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/trasa-Costa-Brava-vinne-cesty-GRAVEL-Cyklokros.jpg",
+            "details": "This is a trip with easy cycling for ordinary cyclists, half of the route is on quiet side roads and the other on unpaved terrain roads. It goes about 40 km a day without major climbs. This tour includes 2 visits to wine cellars with wine tasting and local specialties. The experience can be extended by 2 dinners in Michelin-starred restaurants. Bike through one of the most beautiful parts of Catalonia - Emporda. Discover local products, visit local fishing museums, get to know the production of cork or anchovies, an old flour mill or the production of olive oil. Admire the region where Salvador Dali was the genius of surrealism and visit his famous museum in Figueres.",
+            "journey": [
+                 "Day-1: Girona - Sant Feliu de Guíxols (45 Km / elevation 280m +), from Girona follow the off-road bike path to the sea.",
+                 "Day-2: Sant Feliu de Guíxols - Calella de Palafrugell (30 Km / 271m +).",
+                 "Day-3: Calella de Palafrugell - Torroella de Montgrí (29 Km / 180m +). Opportunity to visit the cork museum, visit the wine cellar, you will walk through Pals, one of the most beautiful preserved medieval villages, continue through the wetland, with rice fields and long sandy beaches.",
+                 "Day-4: Torroella de Montgrí - Castelló d'Empúries (36 Km / 60m +). The route leads along the coast along the famous Roman and Greek ruins of the Empuries which you must definitely visit.  You will continue through the Aiguamolls National Park, ending the day in a village with beautiful ancient architecture - Castelló d'Empúries.",
+                 "Day-5: Castelló d'Empúries circuit (37 Km / 65m +). You cycle along a route with breathtaking views of the Pyrenees, among 100-year-old vineyards, this day includes one of the visits and tastings of wine and local products.",
+                 "Day-6: Castelló d'Empúries - Figueres (43 Km / 370m +). In Perelad you will visit the ancient center and the castle, continue along the old vineyards until you reach Figueres, where you have the opportunity to visit the famous museum of Salvador Dali.",
+                 "Price 760 EUR (850 EUR from June 20 to August 28) per person (min. 2 people)",
+                 "Price includes accommodation (7 nights), breakfast, 2 visits to wine cellars + tastings of local specialties, routes in GPX format, luggage transfer between hotelsa and more detailed information about the route."
+            ]
+        }
+
+        ,
+        {
+            "id": 3,
+            "title": "Girona + Costa Brava + Garrotxa 5 days",
+            "description": "Try the more challenging variant of the Girona + Costa Brava + Garrotxa trip, enjoy 5 days in one of the most beautiful cycling areas in Spain.",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/castellfollit-1-1-360x360.jpg",
+            "price": 570,
+            "category": ["road cycling, cycling"],
+            "difficulty": "Difficult",
+            "guide": "No",
+            "coach": "No",
+            "stages": 5,
+            "distance": 559,
+            "unevenness": 7000,
+            "bycicleRental": "Yes",
+            "availability": "Throughout hte year",
+            "tags": ["#costabrava", "#cycling", "#dali", "#biketours"],
+            "type": "Road cycling / Cycling",
+            "duration": "6",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/trasa-Girona-Costa-Brava-Garrotxa-5-dni-tazke.jpg",
+            "details": "Bike for 5 days in one of the most beautiful cycling areas in Spain. You will try different types of hills, beautiful descents overlooking the coast, plains, national parks, the foothills of the Pyrenees, Costa Brava, medieval villages, lakes, green hills, Garrotxa National Park. During these 5 days you will find out why so many professional cyclists chose Girona for your home.",
+            "journey": [
+                 "Day-1: 100km and elevation 1500m. From Girona, you immediately start climbing Els Angels, continue downhill to the medieval village, followed by another 6km hill and from there head to the coastal town of Tossa de Mar. Then you go along the coast to Sant Feliu de Guixols where you will sleep. ",
+                 "Day-2: 100km and elevation 1100m. You start with two shorter climbs (4 and 3 km) and then cycle through the quiet Emporda region, enjoy the medieval villages and return to the coast. You are staying at L'Escala.",
+                 "Day-3: 105km and elevation 800m. You will follow most of the route along the Spanish plain and the smaller hills of Empordà. At the end you will find a 6km climb with a wonderful drive, you will spend the night in Cadaques.",
+                 "Day-4: 140km and elevation 2400m. You start from Cadaques, which is the easternmost point of the Pyrenees, and start 5 km up the ascent directly from the hotel. You go to Port de la Selva and continue 6km up to the monastery of Sant Pere de Rodes. Further through the magnificent Boadella Reservoir, the Olympic Lake Banyoles to the charming village of Santa Pau. You spend the night in the volcano surrounded by Olot.",
+                 "Day-5: 114km and elevation 1200m. The beginning is flat, then you enjoy the gentle hills of the Garrotxa National Park. In the second half of the journey, your longest ascent awaits you, 25 km but with an ascent of 3% to 6%.",
+                 "Day-6: Ribes de Freser / Puigmal 2,913 m in the morning you climb the sanctuary of Núria.  Then you can go a longer and challenging route and climb Puigmal (2913m.nm), or go a shorter route 7 Km 260m + / 1010m and go down into the valley",
+                 "Price 570 EUR (660 EUR during July, August and holidays) min 6 people.",
+                 "Price 825 EUR (910 EUR during July, August and holidays) min 2 people.",
+                 " - If the number of participants is different, we will adjust the prices - ",
+                 "The price includes accommodation in 3-star hotels (6 nights), breakfast, bicycle rental Bianchi Intenso, rental of Garmin GPS with recorded routes and more detailed information about the route."
+            ]
+        }
+
 
     ]
 }
